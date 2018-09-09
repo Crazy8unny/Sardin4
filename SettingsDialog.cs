@@ -22,13 +22,6 @@ namespace ApplicationContextExample
             WinKey = 8
         }
 
-        #region MyTry
-
-
-        #endregion
-
-
-
         #region Constructors
 
         public SettingsDialog()
@@ -78,15 +71,26 @@ namespace ApplicationContextExample
 
         #endregion
 
-        private void button1_Click(object sender, EventArgs e)
+        #region MyTry
+
+        private void SettingsDialog_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Shift && e.KeyCode == Keys.F3)
+            {
+                this.Hide();
+            }
+        }
+
+            private void button1_Click(object sender, EventArgs e)
         {
             String toUgly = textBox1.Text;
-            int precent = trackBar1.Value;
+            int precent = trackBar1.Value;  
             String t2 = Uglify(toUgly, precent);
             textBox2.Text = t2;
             Clipboard.SetText(t2);
         }
 
+        #endregion
 
         private String Uglify(String text, int precent)
         {

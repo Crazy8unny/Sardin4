@@ -9,3 +9,14 @@ C:\Users\elish\Desktop\ApplicationContextExample\obj\Debug\ApplicationContextExa
 C:\Users\elish\Desktop\ApplicationContextExample\obj\Debug\ApplicationContextExample.csproj.CoreCompileInputs.cache
 C:\Users\elish\Desktop\ApplicationContextExample\obj\Debug\ApplicationContextExample.exe
 C:\Users\elish\Desktop\ApplicationContextExample\obj\Debug\ApplicationContextExample.pdb
+C:\Users\elish\Desktop\Sardin4\bin\Debug\ApplicationContextExample.exe.config
+C:\Users\elish\Desktop\Sardin4\bin\Debug\ApplicationContextExample.exe
+C:\Users\elish\Desktop\Sardin4\bin\Debug\ApplicationContextExample.pdb
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.csprojResolveAssemblyReference.cache
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.AboutDialog.resources
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.Properties.Resources.resources
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.SettingsDialog.resources
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.csproj.GenerateResource.Cache
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.csproj.CoreCompileInputs.cache
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.exe
+C:\Users\elish\Desktop\Sardin4\obj\Debug\ApplicationContextExample.pdb
