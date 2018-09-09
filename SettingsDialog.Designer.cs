@@ -61,7 +61,7 @@
             this.cancelButton.Name = "cancelButton";
             this.cancelButton.Size = new System.Drawing.Size(75, 23);
             this.cancelButton.TabIndex = 2;
-            this.cancelButton.Text = "מזער";
+            this.cancelButton.Text = "סגור";
             this.cancelButton.UseVisualStyleBackColor = true;
             // 
             // trackBar1
@@ -71,7 +71,7 @@
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(562, 45);
             this.trackBar1.TabIndex = 9;
-            this.trackBar1.Value = 100;
+            this.trackBar1.Value = 50;
             // 
             // button1
             // 
