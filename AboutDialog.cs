@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace ApplicationContextExample
+namespace Sardin4
 {
   partial class AboutDialog : Form
   {

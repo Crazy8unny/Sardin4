@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace ApplicationContextExample
+namespace Sardin4
 {
     public partial class SettingsDialog : Form
     {

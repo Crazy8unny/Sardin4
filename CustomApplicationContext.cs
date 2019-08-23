@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
-using ApplicationContextExample.Properties;
+using Sardin4.Properties;
 using Cyotek;
 
-namespace ApplicationContextExample
+namespace Sardin4
 {
   internal class CustomApplicationContext : TrayIconApplicationContext
   {

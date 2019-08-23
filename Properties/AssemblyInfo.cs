@@ -2,12 +2,12 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("ApplicationContext Example")]
-[assembly: AssemblyDescription("http://cyotek.com/blog/creating-long-running-windows-forms-applications-without-a-start-up-form")]
+[assembly: AssemblyTitle("Sardin 4")]
+[assembly: AssemblyDescription("This softare will change your life. Your life as you know them will cahnge dramatically by this software. The software will change your life.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cyotek")]
-[assembly: AssemblyProduct("ApplicationContext Example")]
-[assembly: AssemblyCopyright("Copyright © 2013 Cyotek.")]
+[assembly: AssemblyCompany("Bunny@Sardin")]
+[assembly: AssemblyProduct("Sardin 4")]
+[assembly: AssemblyCopyright("Copyright © 2017 Bunny@Sardin.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

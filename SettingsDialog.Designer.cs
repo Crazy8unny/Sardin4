@@ -1,4 +1,4 @@
-﻿namespace ApplicationContextExample
+﻿namespace Sardin4
 {
   partial class SettingsDialog
   {
@@ -86,7 +86,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::ApplicationContextExample.Properties.Resources._337573760104136704;
+            this.pictureBox1.Image = global::Sardin4.Properties.Resources._337573760104136704;
             this.pictureBox1.Location = new System.Drawing.Point(34, 9);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(562, 455);

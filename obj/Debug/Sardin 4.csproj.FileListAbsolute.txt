@@ -1,0 +1,11 @@
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin 4.csproj.GenerateResource.cache
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin 4.csproj.CoreCompileInputs.cache
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin4.AboutDialog.resources
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin4.SettingsDialog.resources
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin 4.csprojAssemblyReference.cache
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin4.Properties.Resources.resources
+C:\Users\Elisha\Desktop\Sardin4\bin\Debug\Sardin 4.exe.config
+C:\Users\Elisha\Desktop\Sardin4\bin\Debug\Sardin 4.exe
+C:\Users\Elisha\Desktop\Sardin4\bin\Debug\Sardin 4.pdb
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin 4.exe
+C:\Users\Elisha\Desktop\Sardin4\obj\Debug\Sardin 4.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace ApplicationContextExample
+namespace Sardin4
 {
   internal static class Program
   {
